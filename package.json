@@ -6,12 +6,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IxquitilisSaid/ngx-popover.git"
+    "url": "git+https://github.com/NgGondolas/ngx-popover.git"
   },
   "bugs": {
-    "url": "https://github.com/IxquitilisSaid/ngx-popover/issues"
+    "url": "https://github.com/NgGondolas/ngx-popover/issues"
   },
-  "homepage": "https://github.com/IxquitilisSaid/ngx-popover#readme",
+  "homepage": "https://github.com/NgGondolas/ngx-popover#readme",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
