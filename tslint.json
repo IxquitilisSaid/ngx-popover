@@ -9,7 +9,7 @@
     "comment-format": [
       true,
       "check-space",
-      4
+      2
     ],
     "curly": true,
     "eofline": true,
@@ -21,8 +21,8 @@
     "import-spacing": true,
     "indent": [
       true,
-      "tabs",
-      4
+      "spaces",
+      2
     ],
     "interface-over-type-literal": true,
     "label-position": true,
